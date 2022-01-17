@@ -589,31 +589,32 @@
                             <h3
                                 class="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">
                                 Getting things done</h3>
-                            <p class="mt-t text-lg pt-8 text-gray-500">Die größte Hürde von Feedbackprozessen ist es,
-                                erkannte Probleme nicht nur in Maßnahmen zu überführen sondern diese auch erfolgreich
-                                umzusetzen. Um den nachhaltigen Erfolg sicherzustellen setzen wir auf eine Reihe von
-                                innovativen Gestaltungsentscheidungen.
+                            <p class="mt-t text-lg pt-8 text-gray-500">The most challenging aspect of feedback
+                                processes is not only to translate identified problems into measures, but also to
+                                implement them successfully. To ensure sustainable success, we rely on a series of
+                                innovative design solutions.
                             </p>
                             <div class="mt-5 prose prose-emerald text-gray-500">
 
-                                <h3>Der Aktionsworkshop als Handlungsmotivation</h3>
-                                <p class="text-lg">Die kritischte Phase eines Feedbackprozesses beginnt nach der
-                                    Maßnahmenableitung, aber genau hier fehlt es oft an Struktur. Durch den fest in
-                                    unseren Prozess integrierten Aktionsworkshop stellen wir in Kombination mit dem
-                                    übersichtlichen Maßnahmenboard die Umsetzung sicher.</p>
+                                <h3>Action Workshop as motivation for action</h3>
+                                <p class="text-lg">The most critical phase of a feedback process begins after
+                                    the derivation of measures, but it is exactly where a structure is usually lacking.
+                                    Through the action workshop, which is firmly integrated into our process, we ensure
+                                    implementation in combination with the clearly arranged action board.</p>
 
-                                <h3>Integration aller Prozessphasen auf Themenkarten</h3>
-                                <p class="text-lg">Feedback, Maßnahmenableitung und Umsetzung - statt
-                                    verschiedener Tools sind alle Prozessschritte auf einer Themenkarte integriert.
-                                    Durch die Reduzierung von Medienbrüchen und den jederzeit Verfügbaren vollständigen
-                                    Themenkontext kann sich das Team voll auf die Erarbeitung und Umsetzung von
-                                    Maßnahmen konzentrieren.</p>
+                                <h3>Implementation of all process phases on topic boards</h3>
+                                <p class="text-lg">Feedback, action derivation and implementation - instead of
+                                    different tools, all process phases are integrated on a topic map. By reducing media
+                                    disruptions and having a complete topic context available at all times, the team can
+                                    concentrate fully on developing and implementing measures.</p>
 
-                                <h3>Die richtige Dosis Feedback</h3>
-                                <p class="text-lg">Feedback alle ein bis zwei Jahre überfordert und ist nicht
-                                    nachhaltig. Feedback jede Woche oder jeden Monat stumpft ab und bietet keine
-                                    Gesprächs- und Handlungsanlässe. Wir setzen daher auf einen dreimonatigen Prozess
-                                    und erreichen so die optimale Kombination aus Kontinuität und Triebkraft.</p>
+                                <h3>The right amount of feedback</h3>
+                                <p class="text-lg">The right amount of feedback
+                                    "The right amount of feedback
+                                    Feedback every year or two overwhelms and is not sustainable. Feedback every week or
+                                    every month dulls and does not provide conversation or action. We therefore rely on
+                                    a three- to six-month process, achieving the optimal combination of momentum and
+                                    continuity."</p>
 
                             </div>
                         </div>
@@ -642,40 +643,37 @@
                             <h3
                                 class="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">
                                 We make teambuilding exciting</h3>
-                            <p class="mt-8 text-lg text-gray-500">Die Beschäftigung mit den eigenen Prozessen, Stärken
-                                und Schwächen stellt stellt für viele Arbeitnehmer:innen zunächst eine fragwürdige
-                                Mehrbelastung dar, denn es braucht Arbeit und Kontinuität um die gewünschten Ergebnisse
-                                zu erzielen. Dann aber führt Selbstreflektion zu deutlich gesteigerter Produktivität und
-                                Zufriedenheit. Wir helfen den Einstieg in den Reflektionsprozess durch eine Reihe von
-                                innovativen Maßnahmen zu vereinfachen.
+                            <p class="mt-8 text-lg text-gray-500">For many employees, dealing with their own processes,
+                                strengths and weaknesses initially represents a questionable additional burden, because
+                                it takes work and patience to achieve the desired results. But then self-reflection
+                                leads to significantly increased productivity and satisfaction. We help to simplify the
+                                start of the reflection process through a series of innovative measures.
                             </p>
                             <div class="mt-5 prose prose-emerald text-gray-500">
 
-                                <h3>In Themen investieren</h3>
-                                <p class="text-lg">In klassischen Feedbackprozessen gehen Themen leicht in der
-                                    Masse unter. Nach der Bewertung von 40, 60 oder mehr Themen ist jedes nur noch eine
-                                    Nummer mit Bewertungskennzahl. Unser Feedbackprozess fragt daher gezielt nur nach 5
-                                    positiven und verbesserungswürdigen Themen. Zusätzlich sollen Begründungen und
-                                    Verbesserungsvorschläge für kritisch eingeschätzte Themen formuliert werden. Zu
-                                    Beginn des Reflektionsworkshops haben daher alle Mitarbeitenden bereits
-                                    Themengebiete über die sich nachgedacht haben, zu denen sie etwas zu sagen hatten
-                                    und in die sie investiert sind.</p>
+                                <h3>Invest in topics</h3>
+                                <p class="text-lg">In classic feedback processes, topics easily get lost in the
+                                    crowd. After evaluating 40, 60 or more topics, each one is just a number with an
+                                    evaluation score. Our feedback process therefore specifically asks for only 5
+                                    positive topics and 5 topics that need to be improved. In addition, concrete reasons
+                                    and suggestions for improvement are to be formulated for the critically assessed
+                                    topics. At the beginning of the reflection workshop, all employees therefore already
+                                    have topics they have thought about, had something to say about or invested in.</p>
 
-                                <h3>Kraft (und Zeit) sparen mit einem guten Prozess</h3>
-                                <p class="text-lg">Wir halten es für wichtig, dass ein Feedbackprozess klare und
-                                    schnell sichtbare Erfolge produziert. Wir haben daher ein Konzept für einen
-                                    Reflektionsworkshop entwickelt, welches in 2 bis 2½ Stunden eine gut strukturierte
-                                    Erarbeitung von Problemlösungen ermöglicht. Die Teams werden so angeleitet, dass
-                                    alle Maßnahmen realistisch umsetzbar sind und mögliche Schwierigkeiten frühzeitig
-                                    erkannt und ausgeräumt werden.</p>
+                                <h3>Saving energy (and time) with a smart process</h3>
+                                <p class="text-lg">We think it is important that a feedback process produces
+                                    clear and quickly visible results. We therefore developed a concept for a reflection
+                                    workshop, which enables a well-structured elaboration of problem solutions in 2 to
+                                    2½ hours. The teams are guided by the app / digital in a way that all measures can
+                                    be realistically implemented and potential difficulties are identified and
+                                    eliminated at an early stage.</p>
 
-                                <h3>Positiver und spielerischer Mindset</h3>
-                                <p class="text-lg">Bei Feeback werden ernste Themen angesprochen. Umso wichtiger
-                                    sind gute Eisbrecher und ein spielerischer Charakter des gesamten Prozesses. In
-                                    unserem Tool vermittelt ein digitales Spielkartenset einen haptischen und leichen
-                                    Kontext. Durch die Zelebrierung von positiven Ergebnissen mit einem Augenzwinkern
-                                    und digitalen Effekten erleichtern wir den Einstieg in den Reflektionsworkshop und
-                                    schaffen das richtige emotionale Mindset.</p>
+                                <h3>Positive and playful mindset</h3>
+                                <p class="text-lg">During Feeback, serious topics are addressed. Thus, good
+                                    icebreakers and a playful character of the entire process are required. In our tool,
+                                    a digital set of playing cards conveys a tactile and light context. By celebrating
+                                    positive outcomes with a wink and digital effects, we facilitate the entry into the
+                                    reflection workshop and create the right emotional mindset.</p>
                             </div>
                         </div>
                     </div>
@@ -702,29 +700,27 @@
                             <h3
                                 class="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">
                                 In the right place at the right time</h3>
-                            <p class="mt-t text-lg pt-8 text-gray-500">Bei einer klassischen Mitarbeiterbefragung
-                                werden durch zahlreiche Steakholder noch zahlreichere Themen eingebracht, diese haben
-                                jedoch meist keinen klaren Plan, wie mit den Ergebnissen weitergearbeitet werden soll
-                                und wer für die Umsetzung von verbesserungsmaßnahmen verantwortlich ist. Mit unserem
-                                Tool verhindern wir ein diffuses “Ownership” für ein Thema und stellen sicher, dass
-                                Probleme an der richtigen Stelle bearbeitet werden.
+                            <p class="mt-t text-lg pt-8 text-gray-500">In a classic employee survey, even more numerous
+                                topics are introduced by numerous steakholders, but they usually do not have a precise
+                                idea of how to proceed with the results and who is responsible for implementing
+                                improvement measures. With our tool, we prevent a diffuse "ownership" of an issue and
+                                ensure that problems are dealt with in the right place.
                             </p>
                             <div class="mt-5 prose prose-emerald text-gray-500">
 
-                                <h3>Die meisten Lösungen können im Team erarbeitet werden</h3>
-                                <p class="text-lg">Mit dem hohen Teambezug unseres Tools setzen wir auf eine
-                                    dezentrale Bearbeitung von Themen, die fast immer am erfolgversprechendsten ist. Im
-                                    Team können Entscheidungen schnell und unbürokratisch getroffen und auch umgesetzt
-                                    werden. Durch die hohe Interaktionsdichte im Arbeitsalltag können
-                                    Verbesserungsprozess außerdem iterativ und nachhaltig gestaltet werden.</p>
+                                <h3>Most solutions can be worked out in a team</h3>
+                                <p class="text-lg">Thanks to the high team orientation of our tool, we focus on
+                                    decentralized processing of issues, which is almost always the most promising
+                                    approach. In a team, decisions can be made and implemented quickly and with minimal
+                                    bureaucracy. Due to the high density of interaction in everyday work, improvement
+                                    processes can also be designed iteratively and sustainably.</p>
 
-                                <h3>Themen richtig platzieren</h3>
-                                <p class="text-lg">Obwohl auch organisationsbezogene Themen durch Teams
-                                    gestaltbar sind, gibt es es immer wieder Bereiche, in denen erst Unternehmensweites
-                                    Handeln eine spürbare Verbesserung bringt. Für alle klar organisationsbezogenen
-                                    Themen haben wir daher Prozess implementiert, mit dem die Probleme direkt an die
-                                    verantwortlichen Personen gemeldet und in der entsprechenden Fachabteilung
-                                    bearbeitet werden können. </p>
+                                <h3>Positioning topics in the right way</h3>
+                                <p class="text-lg">Although organization-related topics can also be shaped by
+                                    teams, there are always areas in which only organization-wide action can bring a
+                                    noticeable improvement. For all issues that are clearly organization-related, we
+                                    have therefore implemented a process by which issues can be reported directly to the
+                                    responsible persons and dealt with in the relevant specialized department.</p>
 
                             </div>
                         </div>
@@ -750,25 +746,23 @@
                             <h3
                                 class="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">
                                 Adapting to a team's abilitiy</h3>
-                            <p class="mt-8 text-lg text-gray-500">Teamlove wurde entwickelt, um Teams ein Instrument an
-                                die Hand zu geben, mit dem sie sich selbstständig entwickeln können. Dennoch ist es
-                                wichtig zu berücksichtigen, dass Teams in sich in ihren Fähigkeiten unterscheiden und
-                                ein unterschiedliches Maß an unterstützung benötigen. Aus diesem Grund haben wir zwei
-                                Mechanismen implementiert, die Teams gezielte Unterstützung im Prozess bieten.
+                            <p class="mt-8 text-lg text-gray-500">Teamlove was developed to give teams a tool to enable
+                                them to develop on their own. However, it is important to keep in mind that teams vary
+                                in their capabilities and require different levels of support. For this reason, we have
+                                implemented two mechanisms that provide teams with specific support in the process.
                             </p>
                             <div class="mt-5 prose prose-emerald text-gray-500">
 
                                 <h3>Change readiness assessment</h3>
-                                <p class="text-lg">Zu Beginn eines Feedback-Zyklus messen wir die
-                                    Veränderungsbereitschaft und die Handlungskompetenz der Teammitglieder und des Teams
-                                    als ganzem. Teams die einen kritischen Wert unseres Readiness-Indizes nicht
-                                    überschreiten werden angehalten, zunächst an ihrer Feedback-Bereitschaft und ihrer
-                                    Kommunikationskompetenz zu arbeiten.</p>
+                                <p class="text-lg">At the beginning of a feedback cycle, we measure the
+                                    readiness for change and the empowerment of team members and the team as a whole.
+                                    Teams that do not exceed a critical value of our readiness index are first
+                                    encouraged to work on their feedback openness and communication skills.</p>
 
                                 <h3>Coaching on demand</h3>
-                                <p class="text-lg">Neben der Prozessebene haben Teams auch die Möglichkeit, für
-                                    einzelen Themen erfahrene Coaches zu buchen, um gezielt unterstützung zu erhalten.
-                                    At teamlove, our philosophy is that we design our tool with the purpose of
+                                <p class="text-lg">In addition to the process level, teams also have the option
+                                    of booking experienced coaches for individual topics in order to receive specific
+                                    support. At teamlove, our philosophy is that we design our tool with the purpose of
                                     uncovering untapped potential in teams by providing them with the necessary skills
                                     to optimize their own performance. Although this may seem obvious to most, using
                                     teamlove it often becomes apparent that a team can fix most of their pain points
