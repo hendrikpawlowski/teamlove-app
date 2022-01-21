@@ -24,6 +24,20 @@
                                 class="ml-1 text-base font-medium text-white hover:text-cyan-100 hover:text-cyan-100">teamlove
 
                             </a>
+
+                            @if (Session::get('locale') === 'en')
+
+                                <a href="{{ route('localization', ['locale' => 'de']) }}"
+                                    class="ml-8 text-base font-medium text-white hover:text-cyan-100">DE</a>
+
+                            @elseif(Session::get('locale') === 'de')
+
+                                <a href="{{ route('localization', ['locale' => 'en']) }}"
+                                    class="ml-8 text-base font-medium text-white hover:text-cyan-100">EN</a>
+
+                            @endif
+
+
                         </a>
                         <div class="-mr-2 flex items-center lg:hidden">
                             <button type="button"
@@ -69,24 +83,6 @@
                             @endauth
                         </div>
                     @endif
-
-
-                    {{-- @if (Route::has('login'))
-                        <div class="hidden fixed top-0 right-0 px-6 py-4 sm:block">
-                            @auth
-                                <a href="{{ url('/dashboard') }}"
-                                    class="text-sm text-gray-700 dark:text-gray-500 underline">Dashboard</a>
-                            @else
-                                <a href="{{ route('login') }}"
-                                    class="text-sm text-gray-700 dark:text-gray-500 underline">Log in</a>
-
-                                @if (Route::has('register'))
-                                    <a href="{{ route('register') }}"
-                                        class="ml-4 text-sm text-gray-700 dark:text-gray-500 underline">Register</a>
-                                @endif
-                            @endauth
-                        </div>
-                    @endif --}}
                 </nav>
 
                 <!--
@@ -146,7 +142,7 @@
             <div class="relative mt-24 max-w-md mx-auto px-4 sm:max-w-3xl sm:mt-32 sm:px-6 lg:max-w-7xl lg:px-8">
                 <h1
                     class="pb-2 text-4xl font-extrabold tracking-tight text-teal-50 bg-gradient-to-l from-emerald-400 to-cyan-300 bg-clip-text text-transparent sm:text-5xl lg:text-5xl">
-                    Get teams working to their full potential.</h1>
+                    {{ __('Get teams working to their full potential.') }}</h1>
                 <p class="mt-3 text-2xl text-cyan-100 max-w-3xl">As an enterprise team effectiveness solution, we
                     believe that all it takes is a guiding hand to make teams great through feedback and hard work.</p>
                 <p class="mt-3 text-2xl text-cyan-100 max-w-3xl">We are dedicated to enabling teams to perform better,
