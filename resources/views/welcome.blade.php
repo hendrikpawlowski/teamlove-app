@@ -13,7 +13,7 @@
                     aria-label="Global">
                     <div class="flex items-center justify-between w-full lg:w-auto">
                         <a href="#">
-                            <span class="sr-only">teamlove</span>
+                            <span class="sr-only">teamlove lol</span>
                             <!-- <img class="h-8 w-auto sm:h-10" src="https://tailwindui.com/img/logos/workflow-mark.svg?color=white" alt=""> -->
                             <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-cyan-50" fill="none"
                                 viewBox="0 0 24 24" stroke="currentcolor">
